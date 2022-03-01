@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "message": "Resolved underlying issues on server 007",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2022-03-01T09:43:11.541Z",
-      "id": 1
-    },
-    {
       "message": "Fixed 002 Hard Drive",
       "attention": "",
       "tech": "John Doe",
