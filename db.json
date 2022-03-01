@@ -8,11 +8,11 @@
       "id": 2
     },
     {
-      "message": "002 Urgent Server Backup Needed",
-      "attention": true,
+      "id": 3,
+      "message": "002 Urgent Server Backup Needed - Fixed!",
+      "attention": false,
       "tech": "Sara Wilson",
-      "date": "2022-03-01T09:43:46.804Z",
-      "id": 3
+      "date": "2022-03-01T11:05:40.688Z"
     }
   ],
   "techs": [
