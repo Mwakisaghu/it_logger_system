@@ -13,6 +13,13 @@
       "attention": false,
       "tech": "Sara Wilson",
       "date": "2022-03-01T11:05:40.688Z"
+    },
+    {
+      "message": "Resolved underlying issues on server 007",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2022-03-02T10:07:06.813Z",
+      "id": 4
     }
   ],
   "techs": [
@@ -30,6 +37,11 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Harrison",
+      "lastName": "Chambela",
+      "id": 4
     }
   ]
 }
